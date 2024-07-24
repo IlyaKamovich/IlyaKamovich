@@ -1,6 +1,5 @@
-<h1  align="center">Hi 👋, I'm IlyaKamovich</h1>
 
-<h3  align="center">A frontend developer from Belarus</h3>
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hi,%20I'm%20Ilya%20Kamovich&desc=A%20frontend%20developer%20from%20Belarus&descAlign=49&descAlignY=70)
 
 <h3  align="left">Connect with me:</h3>
 <p  align="left">
